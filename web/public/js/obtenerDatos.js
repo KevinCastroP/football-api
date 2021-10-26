@@ -8,7 +8,7 @@ function obtenerDatos(search, order, page, by) {
             method: 'POST',
             // mode: 'cors',
             headers: {
-               'x-api-key': 'cuembyTest',
+               'x-api-key': 'footballApiHsc',
                'Content-Type': 'application/json',
             },
             body: JSON.stringify({
@@ -27,7 +27,7 @@ function obtenerDatos(search, order, page, by) {
         fetch(`http://localhost:3000/api/v1/players?search=${search}&order=${order}&page=${page}`, {
             method: 'GET',
             headers:{
-                'x-api-key': 'cuembyTest',
+                'x-api-key': 'footballApiHsc',
             },
             // mode: 'cors'
         })

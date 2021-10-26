@@ -1,5 +1,5 @@
 {
-  "name": "prueba-cuemby",
+  "name": "footbalapi",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/steven-cruz/cuemby-test.git"
+    "url": "git+https://github.com/kevincastrop/football-api.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/steven-cruz/cuemby-test/issues"
+    "url": "https://github.com/kevincastrop/football-api/issues"
   },
-  "homepage": "https://github.com/steven-cruz/cuemby-test#readme",
+  "homepage": "https://github.com/kevincastrop/football-api#readme",
   "dependencies": {
     "dotenv": "^10.0.0",
     "fastify": "^3.16.2",
