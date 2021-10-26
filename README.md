@@ -92,5 +92,8 @@ sudo docker-compose down -v
 **Juan Portilla**  
 * [LinkedIn](https://www.linkedin.com/in/jdpa352/)
 * [Twitter](https://twitter.com/jdavid357)
+
+**Kevin Castro**
+* [LinkedIn](https://www.linkedin.com/in/kevin-brandown-castro-/)
+* [Twitter](https://twitter.com/ccali_k)
 ---
-⌨️ con ❤️ por [Juan Portilla](https://twitter.com/jdavid357) 😊
